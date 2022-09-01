@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/fragment_choose_pet.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_create_user_profile.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/fragment_edit_home.xml" value="0.33627827962239587" />
+        <entry key="app/src/main/res/layout/fragment_failure.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/fragment_happy_pet.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.25729166666666664" />
+        <entry key="app/src/main/res/layout/fragment_reward_options.xml" value="0.45" />
+        <entry key="app/src/main/res/layout/fragment_set_timer.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/fragment_studying.xml" value="0.44146341463414634" />
+        <entry key="app/src/main/res/layout/fragment_success.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/fragment_welcome.xml" value="0.44654088050314467" />
+        <entry key="app/src/main/res/layout/reward_row.xml" value="0.3460800170898438" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
